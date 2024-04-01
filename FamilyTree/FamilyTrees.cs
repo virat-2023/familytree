@@ -22,7 +22,7 @@ namespace FamilyTree
             {
                 people[name] = new Person(name, gender);
                 Person person= people[name];
-                4/5
+                
               
                 Console.WriteLine($"{name} added to the family tree as {gender}");
             }
