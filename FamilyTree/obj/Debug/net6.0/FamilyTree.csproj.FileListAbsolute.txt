@@ -1,0 +1,15 @@
+C:\Users\viratmishra\OneDrive - Nagarro\Desktop\FamilyTree\FamilyTree\bin\Debug\net6.0\FamilyTree.exe
+C:\Users\viratmishra\OneDrive - Nagarro\Desktop\FamilyTree\FamilyTree\bin\Debug\net6.0\FamilyTree.deps.json
+C:\Users\viratmishra\OneDrive - Nagarro\Desktop\FamilyTree\FamilyTree\bin\Debug\net6.0\FamilyTree.runtimeconfig.json
+C:\Users\viratmishra\OneDrive - Nagarro\Desktop\FamilyTree\FamilyTree\bin\Debug\net6.0\FamilyTree.dll
+C:\Users\viratmishra\OneDrive - Nagarro\Desktop\FamilyTree\FamilyTree\bin\Debug\net6.0\FamilyTree.pdb
+C:\Users\viratmishra\OneDrive - Nagarro\Desktop\FamilyTree\FamilyTree\obj\Debug\net6.0\FamilyTree.csproj.AssemblyReference.cache
+C:\Users\viratmishra\OneDrive - Nagarro\Desktop\FamilyTree\FamilyTree\obj\Debug\net6.0\FamilyTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viratmishra\OneDrive - Nagarro\Desktop\FamilyTree\FamilyTree\obj\Debug\net6.0\FamilyTree.AssemblyInfoInputs.cache
+C:\Users\viratmishra\OneDrive - Nagarro\Desktop\FamilyTree\FamilyTree\obj\Debug\net6.0\FamilyTree.AssemblyInfo.cs
+C:\Users\viratmishra\OneDrive - Nagarro\Desktop\FamilyTree\FamilyTree\obj\Debug\net6.0\FamilyTree.csproj.CoreCompileInputs.cache
+C:\Users\viratmishra\OneDrive - Nagarro\Desktop\FamilyTree\FamilyTree\obj\Debug\net6.0\FamilyTree.dll
+C:\Users\viratmishra\OneDrive - Nagarro\Desktop\FamilyTree\FamilyTree\obj\Debug\net6.0\refint\FamilyTree.dll
+C:\Users\viratmishra\OneDrive - Nagarro\Desktop\FamilyTree\FamilyTree\obj\Debug\net6.0\FamilyTree.pdb
+C:\Users\viratmishra\OneDrive - Nagarro\Desktop\FamilyTree\FamilyTree\obj\Debug\net6.0\FamilyTree.genruntimeconfig.cache
+C:\Users\viratmishra\OneDrive - Nagarro\Desktop\FamilyTree\FamilyTree\obj\Debug\net6.0\ref\FamilyTree.dll
